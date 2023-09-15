@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Shipping rate computation",
+  "FriendlyName": "Croxees Studios - Tawsela",
+  "SystemName": "Croxees Studios - Tawsela",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.30" ],
+  "Author": "Croxees team",
+  "DisplayOrder": 1,
+  "FileName": "Croxees.Nop.Plugins.Shipping.Tawsela.dll",
+  "Description": "This plugin offers shipping rates by Tawsela"
+}

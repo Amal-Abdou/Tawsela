@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "wWki8bpUV0O60rf1JDj4W1HLCrV7t+0ef2nI1SCm+yyTJCt0xZSYDpk+s7+LdA1frvnOM7DWgPdHQRltCmN+Qg==",
+  "success": false,
+  "projectFilePath": "E:\\Eng Omar\\Mini Souq\\minisouq\\minisouq.web\\Plugins\\Croxees.Nop.Plugins.Shipping.Tawsela\\Croxees.Nop.Plugins.Shipping.Tawsela.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'E:\\Eng Omar\\Mini Souq\\minisouq.web\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "E:\\Eng Omar\\Mini Souq\\minisouq.web\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
